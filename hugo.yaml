@@ -1,0 +1,39 @@
+baseURL: "https://tommycope.com/"
+languageCode: en-us
+title: Tommy Cope
+theme: PaperMod
+
+params:
+  # ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  homeInfoParams:
+    Title: "👋 Welcome to my page!"
+    Content: "Hi, I'm Tommy. I am a machine learning engineer and (former) professional swimmer. I use this blog to take notes and share ideas. To contact me, please see my info here!"
+  socialIcons:
+    - name: x
+      url: https://x.com/thomecope
+    - name: github
+      url: https://github.com/thomecope
+
+
+titleCaseStyle: 'none'
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    # - identifier: contact
+    #   name: Contact
+    #   url: /contact/
+    #   weight: 40

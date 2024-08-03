@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>css on Tommy Cope</title>
+    <link>http://localhost:1313/tags/css/</link>
+    <description>Recent content in css on Tommy Cope</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 12:16:48 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second post for Tommy</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Sat, 03 Aug 2024 12:16:48 -0400</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>Hi, my name is Tommy.
+We are interested in things </description>
+    </item>
+    <item>
+      <title>Third post for Tommy</title>
+      <link>http://localhost:1313/posts/third/</link>
+      <pubDate>Sat, 03 Aug 2024 12:16:48 -0400</pubDate>
+      <guid>http://localhost:1313/posts/third/</guid>
+      <description>Hi, my name is Tommy.
+We are interested in things </description>
+    </item>
+  </channel>
+</rss>
