@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tommy Cope</title>
+    <link>https://tommycope.com/</link>
+    <description>Recent content on Tommy Cope</description>
+    <generator>Hugo -- 0.131.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2024 12:16:48 -0400</lastBuildDate>
+    <atom:link href="https://tommycope.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>goals for this blog</title>
+      <link>https://tommycope.com/posts/first/</link>
+      <pubDate>Sat, 03 Aug 2024 12:16:48 -0400</pubDate>
+      <guid>https://tommycope.com/posts/first/</guid>
+      <description>about me Hi, my name is Tommy. I am trying to write more. Please let me know if you have any comments.</description>
+    </item>
+    <item>
+      <title>Second post for Tommy</title>
+      <link>https://tommycope.com/posts/second/</link>
+      <pubDate>Sat, 03 Aug 2024 12:16:48 -0400</pubDate>
+      <guid>https://tommycope.com/posts/second/</guid>
+      <description>Hi, my name is Tommy.
+We are interested in things </description>
+    </item>
+    <item>
+      <title>Third post for Tommy</title>
+      <link>https://tommycope.com/posts/third/</link>
+      <pubDate>Sat, 03 Aug 2024 12:16:48 -0400</pubDate>
+      <guid>https://tommycope.com/posts/third/</guid>
+      <description>Hi, my name is Tommy.
+We are interested in things </description>
+    </item>
+  </channel>
+</rss>
