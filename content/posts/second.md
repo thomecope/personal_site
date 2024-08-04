@@ -1,7 +1,7 @@
 ---
 title: 'Second post for Tommy'
 date: 2024-08-03T12:16:48-04:00
-draft: false
+draft: true
 tags: ["html", "css"]
 categories: ["tech"]
 ---

@@ -1,16 +1,37 @@
 baseURL: "https://tommycope.com/"
 languageCode: en-us
-title: Tommy Cope
+title: tommy cope
 theme: PaperMod
 
 params:
+
+  profileMode:
+    enabled: true
+    title: "tommy cope" # optional default will be site title
+    subtitle: "mens sana in corpore sano"
+    imageUrl: imgs/headshot2.jpeg # optional
+    # imageTitle: "<title of image as alt>" # optional
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
+    buttons:
+      - name: about
+        url: /about-me/
+      - name: blog
+        url: /posts/
+      - name: resume
+        url: /files/cope-resume.pdf
+    #   - name: linkedin
+    #     url: https://www.linkedin.com/in/thomas-cope/
+    #   - name: email
+    #     url: mailto:thomecope@gmail.com
+
   # ShowBreadCrumbs: true
-  author: "Tommy Cope"
+  author: "tommy cope"
   ShowReadingTime: true
   ShowPostNavLinks: true
-  homeInfoParams:
-    Title: "👋 Welcome to my page!"
-    Content: "Hi, I'm Tommy. I am a machine learning engineer at KLA and (former) professional swimmer. I use this blog to take notes and share ideas. To contact me, please see my info here!"
+  # homeInfoParams:
+  #   Title: "👋 Welcome to my page!"
+  #   Content: "Hi, I'm Tommy. I am a machine learning engineer at KLA and (former) professional swimmer. I use this blog to take notes and share ideas. To contact me, please see my info here!"
   socialIcons:
     - name: x
       url: https://x.com/thomecope
@@ -31,21 +52,21 @@ params:
 
 titleCaseStyle: 'none'
 
-menu:
-  main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 30
-    - identifier: about-me
-      name: 'About'
-      url: /about-me/
-      weight: 40
+# menu:
+#   main:
+#     - identifier: categories
+#       name: categories
+#       url: /categories/
+#       weight: 10
+#     - identifier: tags
+#       name: tags
+#       url: /tags/
+#       weight: 20
+#     - identifier: archives
+#       name: archives
+#       url: /archives/
+#       weight: 30
+#     - identifier: about-me
+#       name: 'about'
+#       url: /about-me/
+#       weight: 40
