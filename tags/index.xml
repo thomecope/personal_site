@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>tags on Tommy Cope</title>
+    <title>tags on tommy cope</title>
     <link>https://tommycope.com/tags/</link>
-    <description>Recent content in tags on Tommy Cope</description>
+    <description>Recent content in tags on tommy cope</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2024 12:16:48 -0400</lastBuildDate>
     <atom:link href="https://tommycope.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>css</title>
-      <link>https://tommycope.com/tags/css/</link>
-      <pubDate>Sat, 03 Aug 2024 12:16:48 -0400</pubDate>
-      <guid>https://tommycope.com/tags/css/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>html</title>
-      <link>https://tommycope.com/tags/html/</link>
-      <pubDate>Sat, 03 Aug 2024 12:16:48 -0400</pubDate>
-      <guid>https://tommycope.com/tags/html/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
