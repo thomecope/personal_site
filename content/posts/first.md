@@ -1,7 +1,7 @@
 ---
 title: 'goals for this blog'
 date: 2024-08-03T12:16:48-04:00
-draft: false
+draft: True
 ---
 
 1. Write *something* once a week.
